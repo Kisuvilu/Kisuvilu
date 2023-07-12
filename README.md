@@ -1,4 +1,4 @@
-                                                                  ABOUT ME
+**                                                     **ABOUT ME**
 My passion is improving the efficiency and dependability of cloud infrastructure. I thrive at architecting scalable systems since I am skilled in containerization, CI/CD, and troubleshooting. I facilitate collaboration and advocate for best practices, having a good track record of bridging the gap between development and operations teams. 
 
 
